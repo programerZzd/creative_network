@@ -1,1 +1,3 @@
 # creative_network
+more results and evaluation files will be released soon...
+You can check some of our results in /my_output
